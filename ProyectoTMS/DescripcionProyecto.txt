@@ -1,4 +1,22 @@
-Descripcion del Proyecto 
 Mateo Cifuentes
 Nicolas Serna
-Clase TMS G401
+Descripcion del Proyecto
+Se Desarrollará una aplicación de escritorio para el control de las 
+ventas e inventarios de una optica.
+La aplicación se iniciará con una pantalla de login en la que cada persona
+al logearse podrá manejar sus productos opticos y la información de sus 
+clientes.
+La información que se necesita guardar de las ventas existentes es:  
+Tipo de gafa, tipo de lente, prescripción, formula.
+Tambien es necesario guardar la información del paciente: 
+Nombre del cliente, NIT, fecha de venta, celular, correo electronico, 
+valor de venta.
+Al pasar a la pantalla principal el usuario podrá acceder a un panel de 
+control en el que podrá visualizar un listado de las funciones disponibles:
+Ventas del dia, historial de ventas.
+También podrá agregar y dar de baja a nuevos clientes.
+Este proyecto se elaborará en tres etapas:
+Primero se harán los diseños de diagramas de casos de uso, secuencia y
+clases, además se hará toda la parte del backend(base de datos, operaciones
+necesarias para conectar con el frontend).
+Luego se realizará la parte grafica para facilitar el uso al usuario.
